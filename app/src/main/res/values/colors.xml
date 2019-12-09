@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="DarkGreen">#004D40</color>
+    <color name="fab1_color">#4267b2</color>
+    <color name="fab2_color">#00aced</color>
+    <color name="fab3_color">#231F20</color>
+    <color name="fab4_color">#ED3833</color>
+</resources>

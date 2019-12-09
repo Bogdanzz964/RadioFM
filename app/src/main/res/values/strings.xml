@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpaceFM</string>
+    <string name="b_play">Button</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insta_button_like">Track of the day</string>
+    <string name="splash_text">The rhythm of your city</string>
+    <string name="splash_text1">www.spacefm.ro</string>
+</resources>

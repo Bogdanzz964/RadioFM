@@ -1,0 +1,1 @@
+include ':app', ':facebook', ':facebook-core', ':facebook-applinks', ':facebook-common', ':facebook-login', ':facebook-marketing', ':facebook-messenger', ':facebook-places', ':facebook-share'
